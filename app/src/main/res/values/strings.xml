@@ -1,0 +1,13 @@
+<resources>
+    <string name="TestApp">TestApp</string>
+
+    <string name="hello_blank_fragment">""</string>
+    <string name="planetName">""</string>
+    <string name="climate">""</string>
+    <string name="orbitalperiod">""</string>
+    <string name="planetHomeName">""</string>
+    <string name="HomecClimate">""</string>
+
+
+
+</resources>
